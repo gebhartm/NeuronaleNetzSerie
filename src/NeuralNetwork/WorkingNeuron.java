@@ -3,9 +3,9 @@ package NeuralNetwork;
 import java.util.ArrayList;
 import java.util.List;
 
-import NeurakNetwork.ActivationFunctions.ActivationFunction;
-import NeurakNetwork.ActivationFunctions.Boolean;
-import NeurakNetwork.ActivationFunctions.Identity;
+import NeuralNetwork.ActivationFunctions.ActivationFunction;
+import NeuralNetwork.ActivationFunctions.Boolean;
+import NeuralNetwork.ActivationFunctions.Identity;
 
 //Hidden und Output Neuron !!!
 
