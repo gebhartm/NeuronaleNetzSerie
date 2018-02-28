@@ -11,7 +11,7 @@ import NeurakNetwork.ActivationFunctions.Identity;
 
 public class WorkingNeuron extends Neuron {
 	private List<Connection> connections = new ArrayList<>();
-	private ActivationFunction activationFunction = ActivationFunction.ActivationSigmoid;
+	private ActivationFunction activationFunction = ActivationFunction.ActivationIdentity;
 	
 	@Override
 	public float getValue() {
